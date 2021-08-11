@@ -1,4 +1,4 @@
-## vimlc.vim - load .vimlc into current directory/project root like a .vimrc
+## vimlc.vim - load .vimlc from current directory/project root like a .vimrc
 
 ## Installation
 ```vim
